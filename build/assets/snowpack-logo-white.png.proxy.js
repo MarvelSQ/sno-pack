@@ -1,0 +1,1 @@
+export default "/assets/snowpack-logo-white.png";
